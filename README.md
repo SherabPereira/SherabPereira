@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br><br>
   <div align="center"> 
   <a href="https://github.com/OrigenZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en"/>
     <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dracula"/>
     </div>
