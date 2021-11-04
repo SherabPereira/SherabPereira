@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**OrigenZ/OrigenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  I'm Sherab Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="OrigenZ" /> </p>
@@ -32,9 +18,9 @@ Here are some ideas to get you started:
   <br><br>
   <div align="center"> 
   <a href="https://github.com/OrigenZ">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark"/>
     <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark"/>
     </div>
     <br><br>
 <div> 
