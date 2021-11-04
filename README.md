@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="OrigenZ" /> </p>
   
 <div style="display: flex; align-items:center"><br>
-  <div style="text-align:center">
+  <div style="text-align:center!important;">
   <img align="center" alt="OrigenZ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="OrigenZ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="OrigenZ-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
