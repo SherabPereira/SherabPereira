@@ -16,9 +16,9 @@
   <br><br>
   <div align="center"> 
   <a href="https://github.com/OrigenZ">
-  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark"/>
+  <img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark"/>
     <br><br>
-  <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark"/>
     </div>
     <br><br>
 <div> 
