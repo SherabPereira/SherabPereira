@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  I'm Sherab Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="OrigenZ" /> </p>
   
-<div style="display: flex; justify-content:center"><br>
+<div style="display: flex; align-items:center"><br>
   <img align="center" alt="OrigenZ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="OrigenZ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="OrigenZ-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
