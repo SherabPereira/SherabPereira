@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  I'm Sherab Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="OrigenZ" />
-<img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/small' /> 
+<img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/micro' /> 
 </p>
   
 <div style="display: flex; align-items:center"><br>
