@@ -26,7 +26,7 @@
 </div>
 <br><br>
 <br><br>
-<div align="center" style="display:flex; justify-content:center">
+<div align="center">
     <img height="200em" width="350em"
         src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
 
