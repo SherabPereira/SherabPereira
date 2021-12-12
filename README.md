@@ -5,8 +5,8 @@
     <img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/micro' />
 </p>
 
-<div style="display: flex; align-items:center"><br>
 
+<div align="center">
     <img align="center" alt="OrigenZ-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="OrigenZ-React" height="30" width="40"
@@ -35,6 +35,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
 </div>
 <br><br>
+
 
 
 ![Snake animation](https://github.com/OrigenZ/OrigenZ/blob/output/github-contribution-grid-snake.svg)
