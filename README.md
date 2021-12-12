@@ -1,8 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm
     Sherab Pereira</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat"
-        alt="OrigenZ" />
-    <img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/micro' />
+<p align="center">
+    <a href="https://github.com/OrigenZ">
+        <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="OrigenZ" />
+    </a>
+    <a href="https://www.codewars.com/users/OrigenZ">    
+        <img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/micro' />
+    </a>
+
 </p>
 <br>
 <div align="center">
