@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-    I'm
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm
     Sherab Pereira</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat"
         alt="OrigenZ" />
@@ -27,17 +26,17 @@
 <br><br>
 
 <div align="center">
-    <a href="https://github.com/OrigenZ">
-        <img height="150rem" width="300rem"
-            src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
-    </a>
-    <a href="https://github.com/OrigenZ">
-        <img height="150rem" width="250rem"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
-    </a>
+<a href="https://github.com/OrigenZ">
+    <img  width="325rem"
+        src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
+</a>
+<a href="https://github.com/OrigenZ">
+    <img  width="273rem"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
+</a>
 </div>
 
 <br><br>
-<a href="https://github.com/OrigenZ">
+<a align="center" href="https://github.com/OrigenZ">
     ![Snake animation](https://github.com/OrigenZ/OrigenZ/blob/output/github-contribution-grid-snake.svg)
 </a>
