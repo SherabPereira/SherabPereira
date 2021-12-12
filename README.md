@@ -11,22 +11,24 @@
 </p>
 <br>
 <div align="center">
-    <img align="center" alt="OrigenZ-Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="OrigenZ-React" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="OrigenZ-NodeJS" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="OrigenZ-Mongo" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="OrigenZ-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="OrigenZ-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="OrigenZ-Java" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="OrigenZ-Git" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="OrigenZ-Js"
+        src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black">
+    <img align="center" alt="OrigenZ-React" 
+        src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB">
+    <img align="center" alt="OrigenZ-NodeJS" 
+        src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
+    <img align="center" alt="OrigenZ-Mongo" 
+        src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
+    <img align="center" alt="OrigenZ-HTML"
+        src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+    <img align="center" alt="OrigenZ-CSS"
+        src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+    <img align="center" alt="OrigenZ-Java"
+        src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
+    <img align="center" alt="OrigenZ-Git"
+        src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+    <img align="center" alt="OrigenZ-Git"
+        src="https://img.shields.io/badge/MySQL-005c83?logo=mysql&logoColor=white">
 </div>
 <br><br>
 
