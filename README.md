@@ -1,11 +1,11 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+    I'm
     Sherab Pereira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat"
         alt="OrigenZ" />
     <img alt='CodeWars' src='https://www.codewars.com/users/OrigenZ/badges/micro' />
 </p>
-
-
+<br>
 <div align="center">
     <img align="center" alt="OrigenZ-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,16 +25,17 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 <br><br>
-<br><br>
 
-<a href="https://github.com/OrigenZ" align="left">
-    <img height="150rem" width="250rem"
-        src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
-</a>
-<a href="https://github.com/OrigenZ" align="right">
-    <img height="150rem" width="250rem"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
-</a>
+<div align="center">
+    <a href="https://github.com/OrigenZ">
+        <img height="150rem" width="300rem"
+            src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
+    </a>
+    <a href="https://github.com/OrigenZ">
+        <img height="150rem" width="250rem"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
+    </a>
+</div>
 
 <br><br>
 <a href="https://github.com/OrigenZ">
