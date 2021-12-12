@@ -27,10 +27,10 @@
 <br><br>
 <br><br>
 
-<a href="https://github.com/OrigenZ" align="left" height="200em" width="350em">
+<a href="https://github.com/OrigenZ" align="left" height="150rem" width="250rem">
     <img src="https://github-readme-stats.vercel.app/api?username=OrigenZ&show_icons=true&locale=en&theme=dark" />
 </a>
-<a href="https://github.com/OrigenZ" align="right" height="200em" width="350em">
+<a href="https://github.com/OrigenZ" align="right" height="150rem" width="250rem">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrigenZ&layout=compact&langs_count=7&theme=dark" />
 </a>
