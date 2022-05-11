@@ -2,7 +2,7 @@
     Sherab Pereira</h1>
 <p align="center">
     <a href="https://github.com/SherabPereira">
-        <img src="https://komarev.com/ghpvc/?username=OrigenZ&label=Profile%20views&color=0e75b6&style=flat" alt="SherabPereira" />
+        <img src="https://komarev.com/ghpvc/?username=SherabPereira&label=Profile%20views&color=0e75b6&style=flat" alt="SherabPereira" />
     </a>
     <a href="https://www.codewars.com/users/SherabPereira">    
         <img alt='CodeWars' src='https://www.codewars.com/users/SherabPereira/badges/micro' />
@@ -49,5 +49,5 @@
 
 <br><br>
 <a align="center" href="https://github.com/SherabPereira">
-    ![Snake animation](https://github.com/SherabPereira/OrigenZ/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/SherabPereira/blob/output/github-contribution-grid-snake.svg)
 </a>
