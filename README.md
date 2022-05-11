@@ -49,5 +49,5 @@
 
 <br><br>
 <a align="center" href="https://github.com/SherabPereira">
-    ![Snake animation](https://github.com/SherabPereira/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/SherabPereira/SherabPereira/blob/output/github-contribution-grid-snake.svg)
 </a>
