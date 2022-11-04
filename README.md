@@ -29,8 +29,6 @@
         src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
     <img align="center" alt="SherabPereira-Java"
         src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
-    <img align="center" alt="SherabPereira-PHP"
-        src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
     <img align="center" alt="SherabPereira-MySQL"
         src="https://img.shields.io/badge/MySQL-005c83?logo=mysql&logoColor=white">
 </div>
