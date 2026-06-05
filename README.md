@@ -34,15 +34,6 @@
 </div>
 <br><br>
 
-<div align="center">
-<a href="https://github.com/SherabPereira">
-    <img  width="325rem"
-        src="https://github-readme-stats.vercel.app/api?username=SherabPereira&show_icons=true&locale=en&theme=dark" />
-</a>
-<a href="https://github.com/SherabPereira">
-    <img  width="273rem"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherabPereira&layout=compact&langs_count=7&theme=dark" />
-</a>
-</div>
+
 
 
